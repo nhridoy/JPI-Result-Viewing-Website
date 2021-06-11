@@ -1,0 +1,26 @@
+*{margin:0;padding: 0}
+body{font-family: roboto;color: #333;background: url(../images/cbg.jpg) no-repeat;background-position: center center;}
+#body{background-size: cover;}
+.fix{overflow: hidden;}
+.body{width: 1000px; margin:20px auto;}
+.head{text-align: center;}
+.jpiname{}
+.jpiname img{width:50px;margin-left: 150px;}
+.jpiname h2{font-size: 40px;margin-right: 240px;}
+.floatleft{float: left;}
+.floatright{float: right;}
+.information{margin-top: 25px;}
+.info_left{width: 500px;margin-top: 30px;}
+.info_left table tr p{margin-right : 98px;}
+.info_right{margin-right: 10px;}
+.info_right table tr td{border: 1px solid #33a967;padding: 3px;text-align: center;}
+.result{margin-top: 70px;}
+.result table{}
+.result table tr td,.result table tr th{border:1px solid #33a967;padding: 5px 3px;}
+.gpa{margin-top: 10px;margin-right: 10px;}
+.gparesult{padding: 5px;}
+.gpoint{display: block;border: 2px solid #33a967;padding: 5px 30px;}
+.signeture{margin-top: 30px;margin-left: 30px;}
+.signeture tr td{border-top: 1px solid #33a967;}
+.footer button{padding: 5px;}
+.footer a{color: #33a967}
